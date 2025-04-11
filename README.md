@@ -1,4 +1,4 @@
-# 📊 A/B Testing – Marketing Campaign Optimization
+# 📊 A/B Testing – Marketing Campaign
 
 This project analyzes the effectiveness of two different marketing campaigns using **A/B testing**. It demonstrates how statistical analysis and data visualization can help businesses make **data-driven decisions** and optimize campaign performance.
 
