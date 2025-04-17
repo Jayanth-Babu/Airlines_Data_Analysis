@@ -2,6 +2,9 @@
 
 This project analyzes the effectiveness of two different marketing campaigns using **A/B testing**. It demonstrates how statistical analysis and data visualization can help businesses make **data-driven decisions** and optimize campaign performance.
 
+## ❓Business Problem
+As a marketing agency, our primary objective is to maximize the return on investment (ROI) for our clients' advertising campaigns. We have conducted two ad campaigns, one on Facebook and the other on AdWords, and we need to determine which platform yields better results in terms of clicks, conversions, and overall cost-effectiveness. By identifying the most effective platform, we can allocate our resources more efficiently and optimize our advertising strategies to deliver better outcomes for our clients.
+
 ## 🚀 Project Overview
 
 - **Goal**: Identify which marketing strategy (Campaign A or B) results in higher user engagement and conversions.
